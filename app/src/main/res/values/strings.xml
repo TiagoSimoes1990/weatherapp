@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherAppW</string>
+
+    <!--Location Names-->
+    <string name="city_01">Lisbon</string>
+    <string name="city_02">Madrid</string>
+    <string name="city_03">Paris</string>
+    <string name="city_04">Berlin</string>
+    <string name="city_05">Copenhagen</string>
+    <string name="city_06">Rome</string>
+    <string name="city_07">London</string>
+    <string name="city_08">Dublin</string>
+    <string name="city_09">Prague</string>
+    <string name="city_10">Vienna</string>
+    <string name="city_current">Current Location</string>
+
+
+
+    <!--Weather Details-->
+    <string name="update_at">Update At</string>
+    <string name="temp">Temperature</string>
+
+    <!-- API Key -->
+    <string name ="api_key">c02b7d8d5db69b6bf6a020cb7940c2cd</string>
+</resources>
