@@ -374,8 +374,8 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/wit25x25"
-                        >
+                        android:src="@drawable/ic_hello_person"
+                        app:tint="@color/white">
 
                     </ImageView>
 
